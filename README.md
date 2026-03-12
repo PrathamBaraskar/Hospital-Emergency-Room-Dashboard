@@ -4,6 +4,20 @@
 <img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/45f1c60e-4309-4e36-a8a3-feb315ebf2bd" />
 
 
+# ⚠️ Important – Enable Dashboard Interactivity
+
+The **Pivot Table sheet is protected by default**, which prevents the slicers and interactive elements from working.
+
+Before using the dashboard, please follow these steps:
+
+1. Go to the **Pivot Tables** sheet.
+2. **Right-click on the sheet name** at the bottom of Excel.
+3. Click **Unprotect Sheet**.
+4. Once unprotected, return to the **Dashboard sheet**.
+
+You will now be able to **interact with the slicers and explore the dashboard fully.**
+
+
 ## 📌 Project Overview
 The goal of this project is to build an **Emergency Room Analysis Dashboard in Excel** that helps stakeholders monitor hospital performance, analyze patient trends, and improve operational efficiency.
 
