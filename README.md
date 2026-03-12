@@ -69,7 +69,10 @@ This enables analysis such as:
 - Identifying which age groups use emergency services most frequently
 
 📷 **Age Group Column Creation (Power Pivot)**
+
 <img width="673" height="251" alt="image" src="https://github.com/user-attachments/assets/8a8d7731-f5c8-4024-a773-fe94e95036f0" />
+
+
 <img width="291" height="398" alt="image" src="https://github.com/user-attachments/assets/7a6555a2-a810-4c19-b5f7-04835bda0ab2" />
 
 # 📈 Dashboard Overview
@@ -85,6 +88,7 @@ The dashboard includes:
 - Department/service insights
 
 📷 **Main Dashboard**
+
 ![Hospital Emergency Room Dashboard - Excel 2026-03-12 20-25-36](https://github.com/user-attachments/assets/2c0b3b56-eb42-4039-8b52-28cfee9e1b2a)
 
 
