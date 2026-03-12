@@ -50,5 +50,42 @@ The following steps were performed:
 - Split the **date and time columns** to extract them separately
 - Structured the data to make it analysis-ready
 
-📷 **Data Cleaning Process Screenshot**
-<img width="940" height="934" alt="image" src="https://github.com/user-attachments/assets/18ebbae5-c86c-4383-9824-8ccd3d526d7a" />
+# 📅 Date Table Creation
+
+To support time-based analysis:
+
+- A **new query was created containing dates from**  
+  **January 1, 2023 → December 31, 2024**
+- A **relationship was established between the date table and the main dataset**
+
+This allows the dashboard to perform **time-series analysis and filtering**.
+
+# 👥 Age Group Calculation
+
+An **Age Group column** was created in **Power Pivot** to categorize patients into different groups.
+
+This enables analysis such as:
+- Patient distribution by age
+- Identifying which age groups use emergency services most frequently
+
+📷 **Age Group Column Creation (Power Pivot)**
+<img width="673" height="251" alt="image" src="https://github.com/user-attachments/assets/8a8d7731-f5c8-4024-a773-fe94e95036f0" />
+<img width="291" height="398" alt="image" src="https://github.com/user-attachments/assets/7a6555a2-a810-4c19-b5f7-04835bda0ab2" />
+
+# 📈 Dashboard Overview
+
+An **interactive Excel dashboard** was created to visualize the emergency room data.
+
+The dashboard includes:
+
+- KPI cards
+- Patient trends
+- Age group analysis
+- Daily patient activity
+- Department/service insights
+
+📷 **Main Dashboard**
+![Hospital Emergency Room Dashboard - Excel 2026-03-12 20-25-36](https://github.com/user-attachments/assets/2c0b3b56-eb42-4039-8b52-28cfee9e1b2a)
+
+
+
