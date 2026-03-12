@@ -1,5 +1,9 @@
 # 🏥 Hospital Emergency Room Analysis Dashboard (Excel)
 
+
+<img width="940" height="418" alt="image" src="https://github.com/user-attachments/assets/45f1c60e-4309-4e36-a8a3-feb315ebf2bd" />
+
+
 ## 📌 Project Overview
 The goal of this project is to build an **Emergency Room Analysis Dashboard in Excel** that helps stakeholders monitor hospital performance, analyze patient trends, and improve operational efficiency.
 
