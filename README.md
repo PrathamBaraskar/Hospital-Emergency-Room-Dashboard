@@ -96,4 +96,82 @@ The dashboard includes:
 ![Hospital Emergency Room Dashboard - Excel 2026-03-12 20-25-36](https://github.com/user-attachments/assets/2c0b3b56-eb42-4039-8b52-28cfee9e1b2a)
 
 
+# 🔎 Interactive Dashboard Features
+
+The dashboard includes **interactive charts**.
+
+When users click on certain charts, they are **redirected to detailed reports** for deeper analysis.
+
+Examples include:
+
+- Patient distribution charts
+- Age group breakdown
+- Daily patient trends
+
+📷 **Interactive Chart Navigation**
+
+<img width="940" height="355" alt="image" src="https://github.com/user-attachments/assets/0ccfd511-5bde-4e85-9d03-239e8c72323b" />
+<img width="940" height="319" alt="image" src="https://github.com/user-attachments/assets/f1bc08b4-cd01-4a5c-9a09-e9c9dc792fa8" />
+<img width="940" height="285" alt="image" src="https://github.com/user-attachments/assets/9e88e61b-3c58-4e58-ac7f-ef8933705c2f" />
+
+# 📊 Pivot Reports
+
+Several **Pivot Tables and Pivot Charts** were created to analyze the data.
+
+These reports provide insights such as:
+
+- Daily patient visits
+- Patient demographics
+- Department utilization
+- Service demand patterns
+
+
+---
+
+# 🛠 Tools & Technologies Used
+
+- **Microsoft Excel**
+- **Power Query**
+- **Power Pivot**
+- **Pivot Tables**
+- **Data Cleaning & Transformation**
+- **Interactive Dashboard Design**
+
+---
+
+# 📌 Key Insights
+
+Some insights that can be derived from the dashboard include:
+
+- Peak emergency room hours
+- Age groups most frequently visiting the ER
+- Average waiting time trends
+- Patient inflow patterns over time
+
+These insights can help hospitals **optimize staffing, reduce waiting times, and improve patient care.**
+
+---
+
+# 🚀 Future Improvements
+
+Possible improvements for this project:
+
+- Automating data refresh
+- Adding predictive analysis
+- Integrating real hospital datasets
+- Creating a Power BI version of the dashboard
+
+---
+
+# 👨‍💻 Author
+
+**Pratham Baraskar (Data Analyst/Business Analyst)**
+
+Data Analytics Project – Excel Dashboard
+  
+
+
+
+
+
 
